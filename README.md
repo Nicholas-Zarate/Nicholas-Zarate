@@ -4,7 +4,6 @@
 - Writing Javascript since the age of 13 ...
 - 🌱 Catch me browsing https://arxiv.org/ 
 - 🧙 FullStacker and Designer
-- 🕸️ Creating cool things @
 - 💻 Building NTURA
 
 <!---
