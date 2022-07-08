@@ -2,9 +2,10 @@
 
 
 - Writing Javascript since the age of 13 ...
-- 🌱 Catch me browsing https://arxiv.org/ 
 - 🧙 FullStacker and Designer
 - 💻 Building NTURA
+- 📖 Browsing https://arxiv.org/ in my freetime
+- ⚽ I like playing soccer as much as watching it
 
 <!---
 Nicholas-Zarate/Nicholas-Zarate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
