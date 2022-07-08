@@ -1,7 +1,7 @@
 👋 Hi
 
 
-- Writing Javascript since the age of 13 ...
+- Coding for 10+
 - 🧙 FullStacker and Designer
 - 💻 Building NTURA
 - 📖 Browsing https://arxiv.org/ in my freetime
