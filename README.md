@@ -3,8 +3,8 @@
 
 - Coding for 10+
 - 🧙 FullStacker and Designer
-- 💻 Building NTURA
-- 📖 Browsing https://arxiv.org/ in my freetime
+- 💻 Building Natura
+- 📖 Browsing https://arxiv.org/ on the weekend
 - ⚽ I like playing soccer as much as watching it
 
 <!---
