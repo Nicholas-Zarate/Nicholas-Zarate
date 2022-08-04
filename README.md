@@ -11,7 +11,7 @@
 ### Languages
 [![stack](https://skills.thijs.gg/icons?i=python,java,js)](https://skills.thijs.gg)
 ### Web Stack
-[![stack](https://skills.thijs.gg/icons?i=mongodb,mysql,express,react,nodejs)](https://skills.thijs.gg)
+[![stack](https://skills.thijs.gg/icons?i=mongodb,mysql,graphql,react,nodejs)](https://skills.thijs.gg)
 
 <!---
 Nicholas-Zarate/Nicholas-Zarate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
